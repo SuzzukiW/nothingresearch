@@ -9,9 +9,9 @@ st.write("[![Star](https://img.shields.io/github/stars/dataprofessor/links.svg?l
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('dp.png'))
 
-st.header('Xiang Fu, Student in Boston University.')
+st.header('The Fu Foundation of Nothing Research')
 
-st.info('Developer and Photographer')
+st.info('Placeholder')
 
 icon_size = 20
 
